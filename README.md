@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hi there<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to BackFlow
+👋 Hi there<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to GTM
 
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yUjjU9yNCf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/bylumixxx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtywJOAnWnYyfha_P7w_mfg) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yUjjU9yNCf) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/mrlumix_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtywJOAnWnYyfha_P7w_mfg) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=o-lumix&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
