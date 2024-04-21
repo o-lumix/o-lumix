@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to GTM
+👋 Hi there<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to @Teywo
 
 
 
