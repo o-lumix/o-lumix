@@ -3,9 +3,15 @@
 ## Hello, I'm <a href="https://lumix.is-a.dev" target="_blank">Lumix</a>!
 (Use dark theme to find my socials ;)
 
-<a href="https://lumix.is-a.dev" target="_blank"><img align="left" alt="lumix.is-a.dev" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />href="https://instagram.com/bylumix_" target="_blank"><img align="left" alt="Lumix | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/lumixxxx https://www.w3.org/html/" target="_blank"><img align="left" alt="Lumix | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-
+<a href="https://lumix.is-a.dev" target="_blank">
+    <img align="left" alt="lumix.is-a.dev" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
+</a>
+<a href="https://instagram.com/bylumix_" target="_blank">
+    <img align="left" alt="Lumix | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+</a>
+<a href="https://twitter.com/lumixxxx" target="_blank">
+    <img align="left" alt="Lumix | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+</a>
 
 <br />
 <br />
