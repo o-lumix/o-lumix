@@ -6,10 +6,10 @@
 <a href="https://lumix.is-a.dev" target="_blank">
     <img align="left" alt="lumix.is-a.dev" width="22px" src="https://github.com/o-lumix/files/blob/main/www.svg" />
 </a>
-<a href="https://instagram.com/bylumix_" target="_blank">
+<a href="https://instagram.com/LumixFR" target="_blank">
     <img align="left" alt="Lumix | Instagram" width="22px" src="https://github.com/o-lumix/files/blob/main/insta.svg" />
 </a>
-<a href="https://twitter.com/lumixxxx" target="_blank">
+<a href="https://twitter.com/LumixFR" target="_blank">
     <img align="left" alt="Lumix | Twitter" width="22px" src="https://github.com/o-lumix/files/blob/main/twitter.svg" />
 </a>
 
