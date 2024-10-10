@@ -19,12 +19,4 @@
 
 ---
 
-
-
-### Now Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jynyimtsi6g5ffdlfomxs2uvay&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31jynyimtsi6g5ffdlfomxs2uvay)
-
----
-
 [![Lumix github stats](https://github-readme-stats.vercel.app/api?username=o-lumix&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://lumix.is-a.dev/)
