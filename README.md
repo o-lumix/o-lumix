@@ -1,22 +1,25 @@
+## 👋 Introduction
 
+<img align='right' src='https://avatars.githubusercontent.com/u/151382262?v=4' width='200"'>
 
-## Hello, I'm <a href="https://lumix.is-a.dev" target="_blank">Lumix</a>!
-(Use dark theme to find my socials ;)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 
-<a href="https://lumix.is-a.dev" target="_blank">
-    <img align="left" alt="lumix.is-a.dev" width="22px" src="https://github.com/o-lumix/files/blob/main/www.svg" />
-</a>
-<a href="https://instagram.com/LumixFR" target="_blank">
-    <img align="left" alt="Lumix | Instagram" width="22px" src="https://github.com/o-lumix/files/blob/main/insta.svg" />
-</a>
-<a href="https://twitter.com/LumixFR" target="_blank">
-    <img align="left" alt="Lumix | Twitter" width="22px" src="https://github.com/o-lumix/files/blob/main/twitter.svg" />
-</a>
+Hi, I'm **[Lumix](https://lumix.is-a.dev/)**. I am a JS/Lua developer from France.
+I do some works with **Java**, **Lua**, **JS** and **C**, contact me if you have some questions!
 
-<br />
-<br />
-<br />
+## 📫 Contact Me on Social Media
 
----
+✉️ [Email](mailto:lumixfr@outlook.com) | 💬 [Instagram](https://www.instagram.com/lumixfr/)
 
-[![Lumix github stats](https://github-readme-stats.vercel.app/api?username=o-lumix&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://lumix.is-a.dev/)
+## 💡 Projects with My Work
+
+- [**FlashLab**](#): My FiveM roleplay server
+- [**DISCORD**](https://discord.gg/j3psUPZ2Ct): My discord
+
+## 📚 General
+
+- 🔭 I’m currently working on FlashLab 
+ 
+## 💻 Work Stats
+
+![Lumix's Github stats](https://github-readme-stats.vercel.app/api?username=o-lumix&show_icons=true)
