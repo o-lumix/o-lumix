@@ -9,7 +9,7 @@ I do some works with **Java**, **Lua**, **JS** and **C**, contact me if you have
 
 ## 📫 Contact Me on Social Media
 
-✉️ [Email](mailto:lumixfr@outlook.com) | 💬 [Instagram](https://www.instagram.com/lumixfr/)
+✉️ [Email](mailto:mail@lumixsf.site) | 💬 [Instagram](https://www.instagram.com/lumixfr/)
 
 ## 💡 Projects with My Work
 
