@@ -12,12 +12,12 @@ I do some works with **Java**, **Lua**, **JS** and **C**, contact me if you have
 
 ## 💡 Projects with My Work
 
-- [**FlashLab**](#): My FiveM roleplay server
+- [**GtaSide**](#): My FiveM roleplay server
 - [**DISCORD**](https://discord.gg/j3psUPZ2Ct): My discord
 
 ## 📚 General
 
-- 🔭 I’m currently working on FlashLab 
+- 🔭 I’m currently working on GtaSide 
  
 ## 💻 Work Stats
 
