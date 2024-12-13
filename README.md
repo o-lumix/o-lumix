@@ -12,4 +12,4 @@ I do some works with **Java**, **Lua**, **JS** contact me if you have some quest
 
 ## 💻 Work Stats
 
-![Lumix's Github stats](https://github-readme-stats.vercel.app/api?username=o-lumix&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-lumix&theme=dark&show_icons=true)
