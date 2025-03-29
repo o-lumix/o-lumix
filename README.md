@@ -8,8 +8,8 @@ I do some works with **Java**, **Lua**, **JS** contact me if you have some quest
 
 ## 📫 Contact Me on Social Media
 
-✉️ [Email](mailto:mail@99vf.fr) | 💬 [Instagram](https://www.instagram.com/lumixfr/)
+✉️ [Email](mailto:mail@99vf.fr) | 📷 [Instagram](https://www.instagram.com/lumixfr/)
 
 ## 💻 Work Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-lumix&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=o-lumix&theme=dark&show_icons=true)
