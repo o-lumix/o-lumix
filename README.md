@@ -1,15 +1,9 @@
-## 👋 Introduction
+<h1 align="center">Salut, moi c'est <a href="https://99vf.fr">xv</a> 👋</h1>
+<p align="center">Un random qui dev sur FiveM.</p>
 
-
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-
-Hi, I'm **[Lumix](https://99vf.fr)**. I am a Lua developer from France.
-I do some works with **Lua**, **JS** contact me if you have some questions!
-
-## 📫 Contact Me on Social Media
-
-✉️ [Email](mailto:mail@99vf.fr) | 📷 [Instagram](https://www.instagram.com/lumixfr/)
-
-## 💻 Work Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=o-lumix&theme=dark&show_icons=true)
+---
+- 💻 Tous mes projets sont [ici](https://github.com/o-lumix?tab=repositories) (Dont beaucoups en privés)
+- 💬 Développeur Lua
+- 🚧 Actuellement sur **Une base style FlashFA** 
+- 📚 J'apprends le **langage JS**
+- 📫 Contacte-moi sur [Discord](https://discord.gg/yZRYPdDDYC)
